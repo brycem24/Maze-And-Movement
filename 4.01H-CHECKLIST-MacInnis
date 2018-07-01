@@ -1,0 +1,34 @@
+___/10 INIT: including
+
+    create an array of arrays
+    create an object for the maze with properties and methods
+    create an object for the animated character with properties and methods
+    access properties within an object using this.
+    link to jQuery
+
+___/10 PROCESS: including
+
+    use nested loops to generate a maze
+    use if statements to determine which image to show in the maze
+    use if statements to do something different for each direction key
+    use math to determine a top and left position for each maze image
+    use math to determine a top and left position for the animated character
+
+___/10 OUTPUT: including
+
+    use .innerHTML to add code to your page
+    use .src to change an image
+    fade something in from invisible to visible
+    animate movement using jQuery
+    change the movement easing in jQuery to "linear"
+
+___/10 STYLE: including
+
+    honour all previous //STYLE sections
+    use descriptive variable names
+    break up methods and function into separate ones for input, processing, and output
+    use descriptive comments to identify and describe each method or function, and each loop:
+    //loop through each element of the loop to create the rows
+    add spaces between mathematical and string operators,
+    for example: var exampleVar = "hello " + "kitty", not var exampleVar="hello "+"kitty".
+
